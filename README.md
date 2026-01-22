@@ -2,7 +2,7 @@
   <img src="assets/cover.png" alt="ChromaTeeK Cover" width="600" />
 </p>
 
-> [!IMPORTANT]
+> [!CAUTION]
 > - ChromaTeeK is currently available only for Beat Saber version **1.40.8_7379** (which is the latest moddable version)
 > - As of 22/01/2026 the mod has undergone excessive developer testing and roughly 5 hours of in-game testing without any major issues observed (read *Known Bugs* section below). Please, share your feedback.
 
@@ -18,6 +18,8 @@
 
 **Version / Testing Notes:**
 - Renamed package to "ChromaTeeK" (I know, cheeky) to avoid confusion with other Chroma releases.
+- ChromaTeeK version will always match BS version, so it's easy to orient...<br>
+_(you always know that for e.g. Beat Saber 1.40.8_* _→ you need ChromaTeeK 1.40.8)_
 
 **Tested Platform:** 
 - Meta Quest 3 (tested only on Quest 3 so far. If you test on other devices and have feedback, please report it so this project can expand compatibility testing.)
@@ -38,8 +40,9 @@
 >   - Include your device name, steps to reproduce and any relevant logs.
 > 
 
-**Credits:**
-- Original Chroma created by Aeroluna for PCVR (thank you 🙏🙏🙏— original work from ~5 years ago (2021) is the foundation of this project).
+> [!NOTE]
+>  **Credits:**
+>  - Original Chroma created by Aeroluna for PCVR (thank you 🙏🙏🙏— original work from ~5 years ago (2021) is the foundation of this project).
 
 <br>
 
