@@ -44,6 +44,8 @@
 <br>
 
 ---
-_I don't think that any installation instructions are needed..._ 
-_I think if you're here, you know what you're doing...but just in case, I use QuestPatcher for installation of mods._
-_(any other installer should work too (eg BMF)_
+_I don't think that any installation instructions are needed..._
+
+_If you're here, you know what you're doing - but just in case..._
+
+_I use QuestPatcher for installation of mods (any other installer should work too (eg BMF)_
