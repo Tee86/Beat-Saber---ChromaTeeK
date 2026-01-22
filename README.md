@@ -39,7 +39,7 @@
 > 
 
 **Credits:**
-- Original Chroma created by Aeroluna (thank you 🙏🙏🙏— original work from ~5 years ago is the foundation of this project).
+- Original Chroma created by Aeroluna for PCVR (thank you 🙏🙏🙏— original work from ~5 years ago (2021) is the foundation of this project).
 
 <br>
 
