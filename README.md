@@ -42,7 +42,7 @@ _(you always know that for e.g. Beat Saber 1.40.8_* _→ you need ChromaTeeK 1.4
 
 > [!NOTE]
 >  **Credits:**
->  - Original Chroma created by [Aeroluna](https://github.com/Aeroluna) for PCVR (thank you 🙏🙏🙏— original work from ~5 years ago (2021) is the foundation of this project as well as a fork by [bsq-ports](https://github.com/bsq-ports)).
+>  - Original Chroma created by [Aeroluna](https://github.com/Aeroluna) for PCVR (thank you 🙏🙏🙏— original work from ~5 years ago (2021) is the foundation of this project as well as a fork by [bsq-ports](https://github.com/bsq-ports) and their [contributors](https://github.com/bsq-ports/Chroma/graphs/contributors)).
 >    
 >  **Source Code**:
 >    - provided per request via [email](mailto:tee.github@gmail.com) due to previously implemented GPLv3 license by [bsq-ports](https://github.com/bsq-ports)
