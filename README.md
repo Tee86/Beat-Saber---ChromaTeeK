@@ -1,5 +1,6 @@
-# Beat-Saber---ChromaTeeK
-Chroma MOD for Beat Saber, QUEST PORT ONLY
+<p align="center">
+  <img src="assets/cover.png" alt="ChromaTeeK Cover" width="600" />
+</p>
 
 # ChromaTeeK
 
