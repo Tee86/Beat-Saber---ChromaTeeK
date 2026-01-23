@@ -2,6 +2,9 @@
   <img src="assets/cover.png" alt="ChromaTeeK Cover" width="600" />
 </p>
 
+> [!IMPORTANT]
+> Before installing please read at least TL;DR within [this statement](https://github.com/Tee86/Beat-Saber---ChromaTeeK/blob/main/important.md)
+
 > [!CAUTION]
 > - ChromaTeeK is currently available only for Beat Saber version **1.40.8_7379** (which is the latest moddable version)
 > - As of 22/01/2026 the mod has undergone excessive developer testing and roughly 5 hours of in-game testing without any major issues observed (read *Known Bugs* section below). Please, share your feedback.
